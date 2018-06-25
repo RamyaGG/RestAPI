@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class TestBase {
-	
+	//Status Code
 	public int RESPONSE_STATUS_CODE_200 = 200;
 	public int RESPONSE_STATUS_CODE_500 = 500;
 	public int RESPONSE_STATUS_CODE_400 = 400;
